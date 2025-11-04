@@ -1,3 +1,3 @@
-# sulej.ch
+# heidar.ch
 
-Welcome to the official repository of **[sulej.ch](https://sulej.ch/)**, my personal website.
+Welcome to the official repository of **[heidar.ch](https://heidar.ch/)**, my personal website.

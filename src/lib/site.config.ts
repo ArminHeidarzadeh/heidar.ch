@@ -1,17 +1,17 @@
 export type SiteConfig = {
   ownerName: string;
   contactEmail: string;
-  domain: string; // e.g. "sulej.ch"
-  siteTitle: string; // e.g. "sulej.ch"
+  domain: string; // e.g. "heidar.ch"
+  siteTitle: string; // e.g. "heidar.ch"
   githubRepo?: string; // optional repo URL
 };
 
 export const site: SiteConfig = {
-  ownerName: "Arlind Sulejmani",
-  contactEmail: "arlind@sulej.ch",
-  domain: "sulej.ch",
-  siteTitle: "sulej.ch",
-  githubRepo: "https://github.com/Arlind-dev/sulej.ch"
+  ownerName: "Armin Heidarzadeh",
+  contactEmail: "armin@heidar.ch",
+  domain: "heidar.ch",
+  siteTitle: "heidar.ch",
+  githubRepo: "https://github.com/ArminHeidarzadeh/heidar.ch"
 };
 
 export const currentYear = new Date().getFullYear();
